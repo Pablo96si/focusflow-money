@@ -1,7 +1,7 @@
 {
  "name": "Focus Flow Money",
  "short_name": "Money",
- "description": "A calm, offline ADHD budget planner. Your data stays on your device.",
+ "description": "A calm, offline ADHD budget planner by Focus Flow. Your data stays on your device.",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
